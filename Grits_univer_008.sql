@@ -1,0 +1,1 @@
+SELECT * FROM univer008_Grits_Grits.student;
